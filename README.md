@@ -18,6 +18,27 @@ i applied the the AVERAGE,COUNT function to the attached screenshot of the data 
 # Conclusion 
 my 2nd data task on drawing out data driven decision and insights.
 
+# TASK 2
+# DATA VISUALIZATION
+# INTRODUCTION
+this is my 2nd task of week 2 by visualizing my sorted data of medical students dataset of task 1 to give meaningful insight and to tell a story and data for decision making.
+# SKILLS DEMOSTRATED
+Data visualization
+chart setting
+presentation of data 
+data cleaning .
+# ACTIVITY
+Data representation and visualization of average males and females students on blood pressure, blood type and students with diabetes and students that smoke. below is the chart visuals
+![Annotation 2023-08-01 221801](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/1f1643d7-5b1e-44f8-a50e-64a0ec767d26)
+![Annotation 2023-08-01 221858](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/b755bf5a-67cd-428e-8eec-b24a8930c220)
+![Annotation 2023-08-01 221935](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/f2be879d-39c1-428f-a7a5-d23ef4030487)
+![Annotation 2023-08-01 222009](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/1ea0a3c7-6c57-4601-b6a2-66e9923c3cf1)
+![Annotation 2023-08-01 222046](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/ace2e679-ed97-4633-a92d-914e782d9fd2)
+![Annotation 2023-08-01 222126](https://github.com/Petersite/Data-analysis-week2-/assets/140444150/3235c76f-b64c-4a53-9bd0-aeeff34a6844)
+
+# Conclusion 
+my conclusion on the medical students dataset for the visualiztion of te categorized data 
+
 
 
 
